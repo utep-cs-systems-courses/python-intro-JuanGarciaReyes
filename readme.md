@@ -1,2 +1,2 @@
 
-In this lab, I just created a code that do the following tasks:
+<strong>In this lab, I just created a code that do the following tasks:</strong>
